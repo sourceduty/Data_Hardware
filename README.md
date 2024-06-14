@@ -30,13 +30,13 @@ At the high end of the spectrum, high-performance PCs and mainframes exhibit dra
 This table and calculations could be expanded by processing larger or smaller amounts of data using the same hardware.
 
 #
-### ASUS Vivobook 16X Laptop
+### ASUS Vivobook 16 Laptop
 
-| Data Size (MB/GB) | CPU (Cores) | RAM (GB) | Storage (TB) | Network (Gbps) | CPU Examples              | Computer Type       | File Size (MB) | GPU Examples              | Total Time (minutes) |
-|-------------------|-------------|----------|--------------|----------------|--------------------------|---------------------|----------------|--------------------------|-----------------------|
-| 100 GB            | 14          | 16       | 0.512        | 1.0            | Intel Core i9-13900H     | ASUS Vivobook 16X   | 102400         | NVIDIA GeForce RTX 4050  | 69.6                  |
+| Data Size (MB/GB) | CPU (Cores) | RAM (GB) | Storage (TB) | Network (Gbps) | CPU Examples              | Computer Type        | File Size (MB) | GPU Examples              | Total Time (minutes) |
+|-------------------|-------------|----------|--------------|----------------|--------------------------|----------------------|----------------|---------------------------|-----------------------|
+| 100 GB            | 4           | 16       | 0.512        | 1.0            | AMD Ryzen 5 7520U        | Mid-range Laptop     | 102400         | Radeon Graphics           | 110.5                 |
 
-This table provides a detailed analysis of processing times for various hardware configurations, specifically focusing on the inclusion of GPU acceleration alongside CPU processing. The data highlights the substantial performance improvements offered by modern GPUs in combination with high-end CPUs. For instance, the ASUS Vivobook 16X Laptop, equipped with an Intel Core i9-13900H CPU and NVIDIA GeForce RTX 4050 GPU, is estimated to process 100 GB of data in approximately 69.6 minutes. This demonstrates a significant efficiency gain compared to older hardware setups. The table showcases a range of systems from personal laptops to high-performance mainframes, illustrating how advancements in CPU and GPU technologies contribute to reduced processing times across different computing environments.
+The updated table presents a comprehensive analysis of processing times for various hardware configurations, incorporating both CPU and GPU capabilities. This analysis emphasizes the significant impact of modern GPUs on processing efficiency. For example, a mid-range laptop equipped with an AMD Ryzen 5 7520U CPU and integrated Radeon Graphics is estimated to process 100GB of data in approximately 110.5 minutes. This demonstrates that even integrated GPUs can provide substantial performance improvements over CPU-only processing. The table spans a range of systems, from entry-level personal laptops to high-performance mainframes, highlighting how advancements in both CPU and GPU technologies can drastically reduce processing times. This underscores the importance of balanced hardware configurations in optimizing computational tasks across different computing environments.
 
 #
 ### Related Links
