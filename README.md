@@ -30,6 +30,15 @@ At the high end of the spectrum, high-performance PCs and mainframes exhibit dra
 This table and calculations could be expanded by processing larger or smaller amounts of data using the same hardware.
 
 #
+### ASUS Vivobook 16X Laptop
+
+| Data Size (MB/GB) | CPU (Cores) | RAM (GB) | Storage (TB) | Network (Gbps) | CPU Examples              | Computer Type       | File Size (MB) | GPU Examples              | Total Time (minutes) |
+|-------------------|-------------|----------|--------------|----------------|--------------------------|---------------------|----------------|--------------------------|-----------------------|
+| 100 GB            | 14          | 16       | 0.512        | 1.0            | Intel Core i9-13900H     | ASUS Vivobook 16X   | 102400         | NVIDIA GeForce RTX 4050  | 69.6                  |
+
+This table provides a detailed analysis of processing times for various hardware configurations, specifically focusing on the inclusion of GPU acceleration alongside CPU processing. The data highlights the substantial performance improvements offered by modern GPUs in combination with high-end CPUs. For instance, the ASUS Vivobook 16X Laptop, equipped with an Intel Core i9-13900H CPU and NVIDIA GeForce RTX 4050 GPU, is estimated to process 100 GB of data in approximately 69.6 minutes. This demonstrates a significant efficiency gain compared to older hardware setups. The table showcases a range of systems from personal laptops to high-performance mainframes, illustrating how advancements in CPU and GPU technologies contribute to reduced processing times across different computing environments.
+
+#
 ### Related Links
 
 [Gas-Cooled Computer](https://github.com/sourceduty/Gas-Cooled_Computer)
