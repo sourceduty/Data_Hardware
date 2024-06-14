@@ -27,9 +27,7 @@ Finally, the server configuration in the dataset represents the upper echelon of
 
 #
 
-> Alex: *"This table and calculations could be expanded by processing larger or smaller amounts of data using the same hardware."*
-
-> *"A personal laptop would take approximately 10.24 hours to process 10 GB of data. "*
+This table and calculations could be expanded by processing larger or smaller amounts of data using the same hardware. A personal laptop would take approximately 10.24 hours to process 10 GB of data.
 
 #
 ### Related Links
