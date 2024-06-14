@@ -1,0 +1,9 @@
+Data Size (MB/GB),CPU (Cores),RAM (GB),Storage (TB),Network (Gbps),CPU Examples,Computer Type,File Size (MB),GPU Examples,Total Time (minutes)
+100 MB,1,1,0.01,0.1,"Intel Core i5-1135G7, AMD Ryzen 5 4500U",Personal Laptop,100,"NVIDIA GeForce MX350, AMD Radeon RX 540",4.35
+500 MB,2,2,0.05,0.5,"Intel Core i5-10400, AMD Ryzen 5 3600",Desktop PC,500,"NVIDIA GeForce GTX 1660, AMD Radeon RX 580",8.7
+1 GB,2,4,0.1,1.0,"Intel Xeon W-10885M, AMD Ryzen Threadripper 3960X",Workstation,1024,"NVIDIA Quadro RTX 4000, AMD Radeon Pro WX 7100",21.75
+10 GB,4,16,0.5,1.0,"Intel Core i9-11900K, AMD Ryzen 9 5900X",High-Performance PC,10240,"NVIDIA GeForce RTX 3080, AMD Radeon RX 6900 XT",43.5
+100 GB,8,32,1.0,2.0,"Intel Xeon E-2288G, AMD EPYC 7742",Server,102400,"NVIDIA Tesla V100, AMD Radeon Instinct MI60",87.0
+1000 GB,16,64,10.0,10.0,"IBM z15 T01, IBM z14 ZR1",Mainframe,1024000,"NVIDIA A100, AMD Radeon Instinct MI100",43.5
+10000 GB,32,128,50.0,40.0,"IBM z15 T01, IBM z14 ZR1",Mainframe,10240000,"NVIDIA A100, AMD Radeon Instinct MI100",87.0
+100000 GB,64,256,200.0,100.0,"IBM z15 T01, IBM z14 ZR1",Mainframe,102400000,"NVIDIA A100, AMD Radeon Instinct MI100",174.0
