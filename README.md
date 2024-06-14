@@ -20,8 +20,8 @@ The third plot highlights storage and network bandwidth requirements, which both
 | 10 GB              | 4           | 16       | 0.50         | 1.0            | 1.0          | Intel Core i9-11900K, AMD Ryzen 9 5900X                                              | High-Performance PC    | 10240          |
 | 100 GB             | 8           | 32       | 1.00         | 2.0            | 2.0          | Intel Xeon E-2288G, AMD EPYC 7742                                                    | Server                 | 102400         |
 | 1000 GB            | 16          | 64       | 10.00        | 10.0           | 4.0          | IBM z15 T01, IBM z14 ZR1                                                             | Mainframe              | 1024000        |
-| 10000 GB           | 32          | 128      | 50.00        | 40.0           | 8.0          | Intel Core i5-1135G7, AMD Ryzen 5 4500U                                              | Personal Laptop        | 10240000       |
-| 100000 GB          | 64          | 256      | 200.00       | 100.0          | 16.0         | Intel Core i5-10400, AMD Ryzen 5 3600                                                | Desktop PC             | 102400000      |
+| 10000 GB           | 32          | 128      | 50.00        | 40.0           | 8.0          | Intel Core i5-1135G7, AMD Ryzen 5 4500U                                              | Mainframe                 | 10240000       |
+| 100000 GB          | 64          | 256      | 200.00       | 100.0          | 16.0         | Intel Core i5-10400, AMD Ryzen 5 3600                                                | Mainframe                 | 102400000      |
 
 #
 ### Related Links
