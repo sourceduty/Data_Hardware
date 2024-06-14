@@ -26,6 +26,12 @@ Finally, the server configuration in the dataset represents the upper echelon of
 | 100000 GB          | 64          | 256      | 200.00       | 100.0          | 16.0         | Intel Core i5-10400, AMD Ryzen 5 3600                                                | Mainframe                 | 102400000      |
 
 #
+
+> Alex: *"This table and calculations could be expanded by processing larger or smaller amounts of data using the same hardware."*
+
+> *"A personal laptop would take approximately 10.24 hours to process 10 GB of data. "*
+
+#
 ### Related Links
 
 [Gas-Cooled Computer](https://github.com/sourceduty/Gas-Cooled_Computer)
