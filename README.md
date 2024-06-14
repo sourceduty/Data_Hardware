@@ -27,7 +27,7 @@ At the high end of the spectrum, high-performance PCs and mainframes exhibit dra
 
 #
 
-This table and calculations could be expanded by processing larger or smaller amounts of data using the same hardware.
+> This table and calculations could be expanded by processing larger or smaller amounts of data using the same hardware.
 
 #
 ### ASUS Vivobook 16 Laptop
